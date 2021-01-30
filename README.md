@@ -2,6 +2,10 @@
 
 https://towardsdatascience.com/how-to-get-started-building-a-stock-cryptocurrency-forex-trading-program-2abbf0a4729f
 
+https://medium.com/ai-in-plain-english/stock-day-trading-bot-2f0ecc6e581a
+
+https://jdparkerjake.medium.com/my-experience-creating-a-simple-trading-bot-b4cadee728c9
+
 automating day trading with Python and a Robinhood API wrapper
 
 **DISCLAIMER:

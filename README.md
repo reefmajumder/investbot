@@ -1,4 +1,7 @@
 # Day Trading Bot
+
+https://towardsdatascience.com/how-to-get-started-building-a-stock-cryptocurrency-forex-trading-program-2abbf0a4729f
+
 automating day trading with Python and a Robinhood API wrapper
 
 **DISCLAIMER:
